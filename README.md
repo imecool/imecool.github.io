@@ -46,6 +46,45 @@ Application Security Analyst
 * Container: OCP, EKS.
 
 
+### OWASP Top 10
+* https://owasp.org/www-project-top-ten/
+
+### Userful sites:
+* https://hunter.io/ - To get the email address from the company domain. This can be used as Chrome plug in as well.
+* https://archive.org/web/ -  Exiting web crowling.
+* https://www.exploit-db.com › google-hacking-database -- Google Hacking Database (GHDB) - Google Dorks, OSINT ...
+* https://vulnrepo.com/report/651ff6c6-ce9f-4aaa-8277-9817999415b2 for report preparation.
+* https://github.com/infosecn1nja/Red-Teaming-Toolkit
+* https://explainshell.com/
+* https://bfy.tw/R7rL
+
+
+### Training:
+* https://training.fortinet.com/gmd/NP0$
+* https://www.vulnhub.com/
+* https://www.pentesteracademy.com/
+* https://www.hackthebox.eu/
+
+
+### Blog:
+* https://soroush.secproject.com/blog/
+* https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/ 
+
+### Search Engeen:
+* https://duckduckgo.com/
+
+### Useful sites:
+* https://github.com/infosecn1nja/Red-Teaming-Toolkit
+* Good Pen testing site: https://book.hacktricks.xyz/pentesting/pentesting-rdp
+
+
+### Useful videos:
+* https://www.youtube.com/watch?v=8a1yTN2kFNw
+* https://www.youtube.com/watch?v=qSnPayW6F7U
+* https://www.youtube.com/watch?v=Ba3zE2OyK8M
+
+#
+
 
 
 
