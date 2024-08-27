@@ -46,10 +46,12 @@ Application Security Analyst
 * Container: OCP, EKS.
 
 
+## Best References
+
 ### OWASP Top 10
 * https://owasp.org/www-project-top-ten/
 
-### Userful sites:
+### Useful sites:
 * https://hunter.io/ - To get the email address from the company domain. This can be used as Chrome plug in as well.
 * https://archive.org/web/ -  Exiting web crowling.
 * https://www.exploit-db.com › google-hacking-database -- Google Hacking Database (GHDB) - Google Dorks, OSINT ...
