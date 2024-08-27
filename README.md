@@ -19,6 +19,28 @@ Application Security Analyst
 * Qualys Certified Specialist — Web Application Scanning
 * Certified SAFe® 6 DevOps Practitioner
 * Sun Certified Java professional.
+* **AWS Certified Cloud Practitioner - Step by Step - 2021(2021-02-13)** - https://udemy-certificate.s3.amazonaws.com/pdf/UC-3e0a2d77-a183-41db-bf22-1d4fe4c3eef5.pdf
+* **Learn Ethical Hacking From Scratch (2020-07-06)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-83df1929-ba5b-4efb-913b-1c0df5815992.pdf
+* https://zsecurity.org/generated-certificates/CoXqdb0e.png
+* **Security Awareness Training(2020-07-06)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-850727e5-72f2-432c-9431-5328642ce383.pdf
+* **The Complete Nmap Ethical Hacking Course: Network security(2020-07-12):** https://udemy-certificate.s3.amazonaws.com/pdf/UC-cc5856d9-3ab5-4467-8659-c5670ad13b00.pdf
+* **Certificate: Cybersecurity Attacks (Red Team Activity)(2020-07-18)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-b8a6177b-43ce-47ee-857f-3c29e240e35f.pdf
+* **Ethical Hacking & Bug Hunting: Buffer Overflow for Beginners(2020-07-22)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-8e9175c9-ade4-4f15-8182-1e11d3713832.pdf
+* **CompTIA Pentest+ (Ethical Hacking) Course & Practice Exam(2020-07-22)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-458568cf-0cf7-4927-aef7-b3b19dbb89c8.pdf
+* **Ultimate AWS Certified Could Practitioner - 2020(2020-07-31)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-a465e203-d5b1-4843-b987-03bce7feeec6.pdf
+* **Jenkin CICD(2020-June-21)** - https://udemy-certificate.s3.amazonaws.com/pdf/UC-2a9ba255-5830-4be7-a77a-774c42035d59.pdf
+* **Basics of BINDS DNS(2020-June-20)**- https://udemy-certificate.s3.amazonaws.com/pdf/UC-afb0dd1d-5b52-4a3d-b5a7-39ea908ccb06.pdf
+* **AWS Certified Solutions Architect Associate - 2020 [SAA-C02] -- Neal:** https://udemy-certificate.s3.amazonaws.com/pdf/UC-e3f7283a-7ad1-4848-905d-28d14a03fc0f.pdf
+* **aws-certified-solutions-architect-associate-saa-c02 -- Stephane Mikes:** https://udemy-certificate.s3.amazonaws.com/pdf/UC-eaecd871-4523-460d-8134-23069a231521.pdf
+* **Handson Penetration Testing Labs 2.0(2020-06-13):** https://udemy-certificate.s3.amazonaws.com/pdf/UC-bc0a8463-9cfa-4c68-ac89-906dfb2ad0c1.pdf
+* **Certified Secure Web Application Engineer (CSWAE)(2020-06-18):** https://udemy-certificate.s3.amazonaws.com/pdf/UC-b26ea751-fc79-4ded-858c-455e366b22f2.pdf
+* **Kali Linux Hacking Lab for Beginners(2020-06-22)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-1324a9d9-d972-4a02-803a-d0928fadc4b0.pdf
+* **Learn Step by Step Web Hacking and Penetration Testing:(2020-06-22)** https://udemy-certificate.s3.amazonaws.com/pdf/UC-1a5a5d23-ed5c-490d-9675-8876afcce92c.pdf
+* **Project Management: Master Project Management - PMP/PMI(2020-06-15)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-3d1bc691-2023-4017-b4cc-97772e59230f.pdf
+* **Python for Beginners: Learn Python Programming (Python 3)(2020-05-30)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-a846a0b8-3ee2-4fb8-a325-a5793a960605.pdf
+* **Java 8 New Features In Simple Way(2020-05-03)**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-485e9696-546d-4139-8fa4-fafcf1e66b01.pdf
+* **Java Streams API Developer Guide(2020-May-09)** : https://udemy-certificate.s3.amazonaws.com/pdf/UC-1bd5f6e5-e78b-4a22-9e51-563b46371fb2.pdf
+
 
 ## Tool Knowledgebase
 ### Security
@@ -73,7 +95,7 @@ Application Security Analyst
 * https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/ 
 
 ### Search Engeen:
-* https://duckduckgo.com/
+* https://duckduckgo.com/ 
 
 ### Useful sites:
 * https://github.com/infosecn1nja/Red-Teaming-Toolkit
