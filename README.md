@@ -108,8 +108,10 @@ Application Security Analyst
 * https://www.youtube.com/watch?v=qSnPayW6F7U
 * https://www.youtube.com/watch?v=Ba3zE2OyK8M
 
-#
-
+## Learn Rubrics
+* [2X2 Rubiks Cube](https://github.com/imecool/imecool.github.io/blob/main/story/rubics/2X2_RubiksCube.md)
+* [3X3 Rubiks Cube](https://github.com/imecool/PersonalLinks/blob/master/Rubiks/3X3_Rubiks.md)
+* [4X5 Rubiks Cube](https://github.com/imecool/PersonalLinks/blob/master/Rubiks/4X4.md)
 
 
 
