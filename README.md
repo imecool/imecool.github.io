@@ -43,7 +43,7 @@ Application Security Analyst
 ## Tool Knowledgebase
 ### Security
 * **Scanners and Penetration Testing:** Veracode, Fortify, Checkmarx, Metasploit, Burp Suite, Kali Linux.
-* Automation: Snyk for SAST and SCA automation; Burp Enterprise and Qualys for DAST automation, Contrast Security for Runtime Application Self Protection (RASP).
+* **Automation:** Snyk for SAST and SCA automation; Burp Enterprise and Qualys for DAST automation, Contrast Security for Runtime Application Self Protection (RASP).
 * **Poster Management:** Bionic/CrowdStrick Falcon ASPM, BigID for (DSPM).
 * **Vulnerability Management:** Qualys WAS, Qualys WAS API, Qualys VMDR, Amazon Inspector.
 * **Security Education Platform:** Secure Code Warrior.
@@ -54,16 +54,9 @@ Application Security Analyst
 * **Container:** OCP, EKS
 
 ### AWS
-* Cloud Platforms: AWS (Glue, Lambda, Step Functions, EKS, Event Bridge, SQS, SNS, S3, RDS), Kubernetes (EKS, OpenShift), AWS Security Hub, Amazon Trusted Advisor, Amazon GuardDuty, and Amazon Inspector.
-* Programming Languages: JavaEE, Spring, Spring WebFlow, Angular, Python, Node.js
-* CI/CD Tools: GitHub, Jenkins, Terraform
-* Security Automation: Snyk for SAST and SCA automation, Veracode.
-* Integration: RESTful APIs, SOAP services, Data Integration (Streaming, Batch,Replay).
-* Poster Management: Bionic/CrowdStrick Falcon ASPM, BigID for (DSPM).
-* Vulnerability Management: Qualys WAS, Qualys WAS API, Qualys VMDR, Amazon Inspector.
-* Code Quality: SonarQube
-* Agile Tools: Jira, Confluence, Rally, IBM RTC, QC.
-* Container: OCP, EKS.
+* **Cloud Platforms:** AWS (Glue, Lambda, Step Functions, EKS, Event Bridge, SQS, SNS, S3, RDS), Kubernetes (EKS, OpenShift), AWS Security Hub, Amazon Trusted Advisor, Amazon GuardDuty, and Amazon Inspector.
+* **Vulnerability Management:** Amazon Inspector.
+* **Container:** EKS.
 
 
 ## Best References
