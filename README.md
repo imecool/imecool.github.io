@@ -42,16 +42,16 @@ Application Security Analyst
 
 ## Tool Knowledgebase
 ### Security
-* Scanners and Penetration Testing: Veracode, Fortify, Checkmarx, Metasploit, Burp Suite, Kali Linux.
+* **Scanners and Penetration Testing:** Veracode, Fortify, Checkmarx, Metasploit, Burp Suite, Kali Linux.
 * Automation: Snyk for SAST and SCA automation; Burp Enterprise and Qualys for DAST automation, Contrast Security for Runtime Application Self Protection (RASP).
-* Poster Management: Bionic/CrowdStrick Falcon ASPM, BigID for (DSPM).
-* Vulnerability Management: Qualys WAS, Qualys WAS API, Qualys VMDR, Amazon Inspector.
-* Security Education Platform: Secure Code Warrior.
-* Threat Modeling: Threat Dragon, MS STRIDE, Evil user stories.
-* Cloud Security: Jenkins, Wiz, AWS Security Hub, Amazon Trusted Advisor, Amazon GuardDuty, and Amazon Inspector.
-* Code Quality: SonarQube
-* Agile Tools: Jira, Confluence, Rally, IBM RTC, QC.
-* Container: OCP, EKS
+* **Poster Management:** Bionic/CrowdStrick Falcon ASPM, BigID for (DSPM).
+* **Vulnerability Management:** Qualys WAS, Qualys WAS API, Qualys VMDR, Amazon Inspector.
+* **Security Education Platform:** Secure Code Warrior.
+* **Threat Modeling:** Threat Dragon, MS STRIDE, Evil user stories.
+* **Cloud Security:** Jenkins, Wiz, AWS Security Hub, Amazon Trusted Advisor, Amazon GuardDuty, and Amazon Inspector.
+* **Code Quality:** SonarQube
+* **Agile Tools:** Jira, Confluence, Rally, IBM RTC, QC.
+* **Container:** OCP, EKS
 
 ### AWS
 * Cloud Platforms: AWS (Glue, Lambda, Step Functions, EKS, Event Bridge, SQS, SNS, S3, RDS), Kubernetes (EKS, OpenShift), AWS Security Hub, Amazon Trusted Advisor, Amazon GuardDuty, and Amazon Inspector.
@@ -81,7 +81,7 @@ Application Security Analyst
 * https://bfy.tw/R7rL
 
 
-### Training:
+### Free Cyber Training:
 * https://training.fortinet.com/gmd/NP0$
 * https://www.vulnhub.com/
 * https://www.pentesteracademy.com/
@@ -104,60 +104,10 @@ Application Security Analyst
 * https://www.youtube.com/watch?v=8a1yTN2kFNw
 * https://www.youtube.com/watch?v=qSnPayW6F7U
 * https://www.youtube.com/watch?v=Ba3zE2OyK8M
+* 
 
 ## Learn Rubrics
 * [2 X 2 Rubiks Cube](https://github.com/imecool/imecool.github.io/blob/main/story/rubics/2X2_RubiksCube.md)
 * [3 X 3 Rubiks Cube](https://github.com/imecool/PersonalLinks/blob/master/Rubiks/3X3_Rubiks.md)
 * [4 X 4 Rubiks Cube](https://github.com/imecool/PersonalLinks/blob/master/Rubiks/4X4.md)
 
-===============================================
-
-### Shiva Mantra
-
-ॐ नमो हिरण्यबाहवे हिरण्यवर्णाय हिरण्यरूपाय हिरण्यपतए अंबिका पतए उमा पतए पशूपतए नमो नमः|
-
-ॐ नमो हिरण्यबाहवे हिरण्यवर्णाय हिरण्यरूपाय हिरण्यपतए अंबिका पतए उमा पतए पशूपतए नमो नमः|
-
-ॐ नमो हिरण्यबाहवे हिरण्यवर्णाय हिरण्यरूपाय हिरण्यपतए अंबिका पतए उमा पतए पशूपतए नमो नमः|
-
-
-ईशान सर्वविद्यानाम् ईश्वर सर्व भूतानाम् ब्रह्मादीपते ब्रह्मनोदिपते ब्रह्मा शिवो अस्तु सदा शिवोहम|
-
-ईशान सर्वविद्यानाम् ईश्वर सर्व भूतानाम् ब्रह्मादीपते ब्रह्मनोदिपते ब्रह्मा शिवो अस्तु सदा शिवोहम|
-
-ईशान सर्वविद्यानाम् ईश्वर सर्व भूतानाम् ब्रह्मादीपते ब्रह्मनोदिपते ब्रह्मा शिवो अस्तु सदा शिवोहम|
-
-
-तत्पुरुषाय विद्महे वागविशुद्धाय धिमहे तन्नो शिव प्रचोदयात्| महादेवाय विद्महे रुद्रमूर्तये धिमहे तन्नों शिव प्रचोदयात्|
-
-नमस्ते अस्तु भगवान विश्वेश्वराय महादेवाय त्र्यंबकाय त्रिपुरान्तकाय त्रिकाग्नी कालाय कालाग्नी रुद्राय नीलकंठाय मृत्युंजयाय सर्वेश्वराय सदशिवाय श्रीमान महादेवाय नमः श्रीमान महादेवाय नमः
-
-शांति शांति शांति
-
-===============================================
-
-ॐ নমো হিরণ্যবাহবে হিরণ্য-বর্ণায়ে হিরণ্য-রূপায়ে হিরণ্য-পতয়ে, অম্বিকা পাতয়্ উমাপতয়ে পশুপতয়ে নমো নমহ্ |
-
-ॐ নমো হিরণ্যবাহবে হিরণ্য-বর্ণায়ে হিরণ্য-রূপায়ে হিরণ্য-পতয়ে, অম্বিকা পাতয়্ উমাপতয়ে পশুপতয়ে নমো নমহ্ |
-
-ॐ নমো হিরণ্যবাহবে হিরণ্য-বর্ণায়ে হিরণ্য-রূপায়ে হিরণ্য-পতয়ে, অম্বিকা পাতয়্ উমাপতয়ে পশুপতয়ে নমো নমহ্ |
-
-ঈশান সর্ববিদ্যানম্ ঈশ্বর সর্ব ভূতানাম ব্রহ্মধীপতে ব্রহ্মণোধীপতে ব্রহ্মা শিবমে অস্তু সদা শিবওম।
-
-ঈশান সর্ববিদ্যানম্ ঈশ্বর সর্ব ভূতানাম ব্রহ্মধীপতে ব্রহ্মণোধীপতে ব্রহ্মা শিবমে অস্তু সদা শিবওম।
-
-ঈশান সর্ববিদ্যানম্ ঈশ্বর সর্ব ভূতানাম ব্রহ্মধীপতে ব্রহ্মণোধীপতে ব্রহ্মা শিবমে অস্তু সদা শিবওম।
-
-তৎপুরুষায় বিদমহে বাগবিশুদ্ধায় ধীমহি তন্নো শিব প্রচোদয়াৎ।
-
-মহাদেবায় বিদমহে রুদ্রমূর্তয়ে ধীমহি তন্নো শিব প্রচোদয়াৎ।
-
-নমস্তে অস্তু ভগবান বিশ্বেশ্বরায় মহাদেবায় ত্রম্বকায় ত্রিপুরান্তকায় ত্রিকাগ্নি কালায় কালাগ্নি রুদ্রায় নীলকণ্ঠায় মৃত্যুঞ্জয়ায় সর্বেশ্বরায় সদাশিবায় শ্রীমন মহাদেবায় নমহ ।
-
-নমস্তে অস্তু ভগবান বিশ্বেশ্বরায় মহাদেবায় ত্রম্বকায় ত্রিপুরান্তকায় ত্রিকাগ্নি কালায় কালাগ্নি রুদ্রায় নীলকণ্ঠায় মৃত্যুঞ্জয়ায় সর্বেশ্বরায় সদাশিবায় শ্রীমন মহাদেবায় নমহ ।
-
-শ্রীমন মহাদেবায় নমহ ।
-
-শ্রীমন মহাদেবায় নমহ ।
-
-শান্তি শান্তি শান্তি||
